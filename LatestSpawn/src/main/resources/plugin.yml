@@ -1,0 +1,7 @@
+name: Latestspawn
+version: ${project.version}
+main: com.latestion.latestspawn.Latestspawn
+api-version: 1.19
+
+commands:
+  loadchunk:
